@@ -1,0 +1,2 @@
+C:/flutter2025/VoiceCare/voicecare/android/app/.cxx/Debug/2m1z624m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/flutter2025/VoiceCare/voicecare/android/app/.cxx/Debug/2m1z624m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

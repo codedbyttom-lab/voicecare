@@ -1,0 +1,1 @@
+C:\flutter2025\VoiceCare\voicecare\android\app\build\intermediates\cxx\Debug\2m1z624m\obj\x86_64
